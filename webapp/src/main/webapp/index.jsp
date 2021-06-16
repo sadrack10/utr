@@ -2,5 +2,5 @@
 <h2> Data Service Group is your learning partner </h2>
 <h2> Glad to see you here </h2>
 <h1> Good job Serge on learning Devops</h1>
-<h2> Did by Saul and Myriam TANKOUA </h2>
-<h2> Did by me </h2>
+<h2> God is great </h2>
+
